@@ -1,0 +1,8 @@
+{
+  "name": "grand-black-rp",
+  "version": "1.0.0",
+  "description": "Grand Black RP — 3D RP-игра в браузере с онлайном",
+  "main": "server.js",
+  "scripts": { "start": "node server.js" },
+  "engines": { "node": ">=18" }
+}
